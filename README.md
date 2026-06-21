@@ -1,5 +1,6 @@
-<img width="1877" height="926" alt="Screenshot 2026-06-21 at 00 18 28" src="https://github.com/user-attachments/assets/07ae6425-de8f-4965-830b-1215926ec8a5" />
 # NBA Referee Analytics Dashboard
+
+<img width="1877" height="926" alt="Screenshot 2026-06-21 at 00 18 28" src="https://github.com/user-attachments/assets/07ae6425-de8f-4965-830b-1215926ec8a5" />
 
 A Reproducible Analytical Pipeline (RAP) for NBA referee statistics.
 
