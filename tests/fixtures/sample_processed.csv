@@ -1,0 +1,4 @@
+referee,role,gender,experience,games_officiated,win_pct_home,point_diff_home,points_per_game,fouls_per_game,foul_pct_road,foul_pct_home,foul_diff,win_pct_away
+Tony Brothers,CHIEF,MALE,32,58,0.621,3.9,231.4,39.3,0.49,0.509,-0.8,0.379
+Natalie Sago,CREW,FEMALE,8,63,0.571,2.4,230.8,38.7,0.505,0.495,0.4,0.429
+Jacyn Goble,CREW,MALE,10,65,0.615,2.0,234.1,41.1,0.513,0.487,1.1,0.385
