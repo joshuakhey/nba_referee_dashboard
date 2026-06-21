@@ -1,0 +1,10 @@
+beautifulsoup4==4.15.0
+html5lib==1.1
+lxml==6.1.1
+pandas==3.0.3
+plotly==6.8.0
+pytest==9.1.1
+python-dotenv==1.2.2
+requests==2.34.2
+SQLAlchemy==2.0.51
+streamlit==1.58.0
